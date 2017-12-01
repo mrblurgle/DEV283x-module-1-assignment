@@ -1,0 +1,19 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv-to-json.js",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node csv-to-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/mrblurgle/DEV283x-module-1-assignment"
+  },
+  "author": "Aaron Newton",
+  "license": "ISC"
+}
