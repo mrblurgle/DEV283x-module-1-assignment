@@ -23,9 +23,11 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 // [2. Testing and verification]:
-// You will need to install the csvtojson module with the NPM command:
+// The program depends on csvtojson module which can be install with:
 //
 // npm i --save csvtojson
+//
+// However, I have included the module in the source.
 //
 // I used the following command to test this program:
 //
